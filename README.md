@@ -23,7 +23,7 @@ A project plan for a retail company creating an online channel of sales, followi
 - Subsequent Delivery Stages
 - Final Delivery Stage
 
-### [Additional considerations on PRINCE2, PM-BOK, and ISO 21500](https://github.com/ortizlilian/prince2pp/blob/main/)
+### [Additional considerations on PRINCE2, PM-BOK, and ISO 21500](https://github.com/ortizlilian/prince2pp/blob/main/Additional_considerations_on_PRINCE2_PM-BOK_and_ISO_21500.md)
 - PRINCE2
 - PMBOK
 - ISO 21500
