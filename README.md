@@ -30,8 +30,7 @@ A project plan for a retail company creating an online channel of sales, followi
 
 ### [References](https://github.com/ortizlilian/prince2pp/blob/main/References.md)
 
-### [Appendices](https://github.com/ortizlilian/prince2pp/blob/main/)
-- Product Breakdown Structure
+### [Appendices](https://github.com/ortizlilian/prince2pp/blob/main/Appendices.md)
 - AWS Pricing Calculator
 - Project Brief
 - Business Case
