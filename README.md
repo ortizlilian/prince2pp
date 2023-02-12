@@ -18,19 +18,19 @@ A project plan for a retail company creating an online channel of sales, followi
 - Gantt Chart and Deliverables
 - A proposed XP Iteration
 
-### PRINCE2 Further Stages
+### [PRINCE2 Further Stages](https://github.com/ortizlilian/prince2pp/blob/main/PRINCE2_Further_Stages.md)
 - Initiation Stage
 - Subsequent Delivery Stages
 - Final Delivery Stage
 
-### Additional considerations on PRINCE2, PM-BOK, and ISO 21500
+### [Additional considerations on PRINCE2, PM-BOK, and ISO 21500](https://github.com/ortizlilian/prince2pp/blob/main/)
 - PRINCE2
 - PMBOK
 - ISO 21500
 
-### References
+### [References](https://github.com/ortizlilian/prince2pp/blob/main/)
 
-### Appendices
+### [Appendices](https://github.com/ortizlilian/prince2pp/blob/main/)
 - Product Breakdown Structure
 - AWS Pricing Calculator
 - Project Brief
