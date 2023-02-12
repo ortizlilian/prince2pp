@@ -3,11 +3,11 @@ A project plan for a retail company creating an online channel of sales, followi
 
 ## Table of Contents
 
-### [Introduction](https://github.com/ortizlilian/prince2pp/Introduction)
+### [Introduction](https://github.com/ortizlilian/prince2pp/blob/main/Introduction.md)
 - Project Summary
 - Comparative of Methods
 
-### Project Memorandum
+### [Project Memorandum](https://github.com/ortizlilian/prince2pp/blob/main/Project_Memorandum.md)
 
 ### Cost Estimate and Evaluation
 - Project Cost Estimate
