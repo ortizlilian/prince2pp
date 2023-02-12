@@ -9,7 +9,7 @@ A project plan for a retail company creating an online channel of sales, followi
 
 ### [Project Memorandum](https://github.com/ortizlilian/prince2pp/blob/main/Project_Memorandum.md)
 
-### Cost Estimate and Evaluation
+### [Cost Estimate and Evaluation](https://github.com/ortizlilian/prince2pp/blob/main/Cost_Estimate_and_Evaluation.md)
 - Project Cost Estimate
 - Project Evaluation
 
