@@ -13,7 +13,7 @@ A project plan for a retail company creating an online channel of sales, followi
 - Project Cost Estimate
 - Project Evaluation
 
-### Outline Project Plan
+### [Outline Project Plan](https://github.com/ortizlilian/prince2pp/blob/main/Outline_Project_Plan.md)
 - Workflow per team member
 - Gantt Chart and Deliverables
 - A proposed XP Iteration
