@@ -3,9 +3,7 @@ A project plan for a retail company creating an online channel of sales, followi
 
 ## Table of Contents
 
-Table of Contents
-
-### Introduction
+### [Introduction](https://github.com/ortizlilian/prince2pp/Introduction)
 - Project Summary
 - Comparative of Methods
 
@@ -37,5 +35,3 @@ Table of Contents
 - AWS Pricing Calculator
 - Project Brief
 - Business Case
-
-
