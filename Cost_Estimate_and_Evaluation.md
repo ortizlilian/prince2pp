@@ -6,7 +6,10 @@ This session is intended to estimate the cost of the project development, as wel
 
 To produce a cost estimate of the proposed project, the bottom-up estimation method will be used. According to Schwalbe (2019), the bottom-up estimate works by calculating the costs of each singular portion of the system and then adding these individual values to obtain the final cost of the project.
 Hughes (2019) says that this approach is recommended when there are still no historical records of former projects similar to the one that is being estimated. Knowing that the proposed project refers to creating an e-commerce website from scratch, Bottom-up estimating method seems highly suitable for this particular project.
-[Figure 1](https://github.com/ortizlilian/prince2pp/blob/main/Appendices.md) shows the Product Breakdown Structure[^1] of this project, as well as the number of iterations necessary to develop each sub-item of the final product. This PBS will be the basis for calculating hours of work of each team member dedicated to developing e-commerce.
+The figure below shows the Product Breakdown Structure[^1] of this project, as well as the number of iterations necessary to develop each sub-item of the final product. This PBS will be the basis for calculating hours of work of each team member dedicated to developing e-commerce.
+
+![PBS](./img/product_breakdown.md.png)
+
 The table below shows the professionals responsible for building the e-commerce, their likely assigned tasks and the respective development times. The end result is the total cost to be spent on personnel.
 
 | Roles | Activities | Hours | Hour rate | Total Cost |
