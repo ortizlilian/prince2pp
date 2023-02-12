@@ -28,7 +28,7 @@ A project plan for a retail company creating an online channel of sales, followi
 - PMBOK
 - ISO 21500
 
-### [References](https://github.com/ortizlilian/prince2pp/blob/main/)
+### [References](https://github.com/ortizlilian/prince2pp/blob/main/References.md)
 
 ### [Appendices](https://github.com/ortizlilian/prince2pp/blob/main/)
 - Product Breakdown Structure
